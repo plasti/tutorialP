@@ -1,0 +1,11 @@
+{
+  "name": "tutorialp",
+  "version": "1.0.0",
+  "description": "Libreria para generacion de tours o tutoriales de aplicaciones web con javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brahian Stiven Montoya Espinosa",
+  "license": "ISC"
+}
